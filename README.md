@@ -54,7 +54,24 @@
 
 #### Preview:
 
+
+
 #### Després:
+
+# 5-Extreure una constant
+## COLUMNA
+#### Codi inicial:
+![image](https://user-images.githubusercontent.com/72401437/118525935-04211900-b740-11eb-9a54-1be3e875db39.png)
+
+#### Preview:
+![image](https://user-images.githubusercontent.com/72401437/118526432-87db0580-b740-11eb-884e-700dfe87039c.png)
+
+#### Després :
+![image](https://user-images.githubusercontent.com/72401437/118526472-90cbd700-b740-11eb-8295-af28b034d756.png)
+
+## FILA
+##### Codi inicial
+![image](https://user-images.githubusercontent.com/72401437/118526615-b953d100-b740-11eb-898d-5cc93ef1e002.png)
 
 
 
