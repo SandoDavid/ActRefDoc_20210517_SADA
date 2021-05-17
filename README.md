@@ -129,7 +129,12 @@
 
 # Comentaris i documentació a partir de la utilitat JAVADOC
 
+### Comentari al constructor
 
+### Comentaris al primer dels mètodes 
 
+### Comentaris al segon dels mètodes 
+
+### Comentaris al tercer dels mètodes
 
 
