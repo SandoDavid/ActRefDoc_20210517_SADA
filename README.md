@@ -73,6 +73,39 @@
 ##### Codi inicial
 ![image](https://user-images.githubusercontent.com/72401437/118526615-b953d100-b740-11eb-898d-5cc93ef1e002.png)
 
+##### Preview:
+![image](https://user-images.githubusercontent.com/72401437/118526858-f9b34f00-b740-11eb-89fd-41ace8b8650c.png)
+
+##### Després:
+![image](https://user-images.githubusercontent.com/72401437/118526918-059f1100-b741-11eb-92fb-dc9ca32b22d5.png)
+
+# 6-Extreure el mètode
+
+### GuanyaDiagonalPrincipal
+
+#### Codi inicial:
+![image](https://user-images.githubusercontent.com/72401437/118527415-92e26580-b741-11eb-9aab-bdc65eaf388e.png)
+
+#### Preview:
+![image](https://user-images.githubusercontent.com/72401437/118527624-c32a0400-b741-11eb-980b-ad6e39ad379e.png)
+
+#### Després:
+![image](https://user-images.githubusercontent.com/72401437/118527702-d4731080-b741-11eb-8a81-5a71d0b470d3.png)
+
+### GuanyaDiagonalSecundaria
+
+#### Codi inicial:
+![image](https://user-images.githubusercontent.com/72401437/118527895-04221880-b742-11eb-9a22-4c1299cc308a.png)
+
+#### Preview:
+![image](https://user-images.githubusercontent.com/72401437/118528026-274cc800-b742-11eb-9e73-1c516a8b636a.png)
+
+#### Després:
+![image](https://user-images.githubusercontent.com/72401437/118528058-32075d00-b742-11eb-9deb-4a27a26a85cc.png)
+
+
+
+
 
 
 
