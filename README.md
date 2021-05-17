@@ -48,15 +48,28 @@
 ![image](https://user-images.githubusercontent.com/72401437/118524763-ca034780-b73e-11eb-89df-9ca1515d0742.png)
 
 # 4-Extreure una variable local
-
+### "Pitja per tornar a jugar"
 ##### Codi inicial:
-![image](https://user-images.githubusercontent.com/72401437/118525152-25cdd080-b73f-11eb-909c-ae8efe375d22.png)
+![image](https://user-images.githubusercontent.com/72401437/118528324-7bf04300-b742-11eb-904a-ba5eeb62c61d.png)
 
 #### Preview:
-
-
+![image](https://user-images.githubusercontent.com/72401437/118528519-bd80ee00-b742-11eb-8ef3-33666ce301b6.png)
 
 #### Després:
+![image](https://user-images.githubusercontent.com/72401437/118528577-cd98cd80-b742-11eb-8db7-f1ec564f992d.png)
+
+### Torn de les X's
+##### Codi inicial:
+
+##### Preview:
+
+##### Després:
+
+
+
+
+
+
 
 # 5-Extreure una constant
 ## COLUMNA
