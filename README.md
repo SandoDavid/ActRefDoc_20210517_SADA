@@ -60,16 +60,26 @@
 
 ### Torn de les X's
 ##### Codi inicial:
+![image](https://user-images.githubusercontent.com/72401437/118529181-82cb8580-b743-11eb-8f5a-53975d82d3d8.png)
 
 ##### Preview:
+![image](https://user-images.githubusercontent.com/72401437/118529227-92e36500-b743-11eb-8a68-165b12857621.png)
 
 ##### Després:
+![image](https://user-images.githubusercontent.com/72401437/118529254-9aa30980-b743-11eb-8592-2809f6201088.png)
 
 
+### Torn de les  0's
+
+#### Codi inicial:
+![image](https://user-images.githubusercontent.com/72401437/118529304-a7276200-b743-11eb-912c-b82f60501b5f.png)
 
 
+#### Preview:
+![image](https://user-images.githubusercontent.com/72401437/118529380-bf977c80-b743-11eb-9d41-b71c1b5b7d27.png)
 
-
+#### Després
+![image](https://user-images.githubusercontent.com/72401437/118529415-c7572100-b743-11eb-9994-b4e150387b83.png)
 
 # 5-Extreure una constant
 ## COLUMNA
@@ -117,7 +127,7 @@
 ![image](https://user-images.githubusercontent.com/72401437/118528058-32075d00-b742-11eb-9deb-4a27a26a85cc.png)
 
 
-
+# Comentaris i documentació a partir de la utilitat JAVADOC
 
 
 
