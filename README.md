@@ -130,6 +130,8 @@
 # Comentaris i documentació a partir de la utilitat JAVADOC
 
 # 7-Comentari al constructor
+#### ![image](https://user-images.githubusercontent.com/72401437/118530906-7e07d100-b745-11eb-8f13-916b9d0bba09.png)
+
 #### Codi inicial:
 ![image](https://user-images.githubusercontent.com/72401437/118530284-c377ce80-b744-11eb-92d9-d07194882c52.png)
 
@@ -138,11 +140,17 @@
 ![image](https://user-images.githubusercontent.com/72401437/118530455-f9b54e00-b744-11eb-92fe-c8de8a3883a0.png)
 
 #### Després:
+![image](https://user-images.githubusercontent.com/72401437/118530675-341eeb00-b745-11eb-976b-cc8e805f4d28.png)
+
 
 # 8-Comentaris al primer dels mètodes 
+![image](https://user-images.githubusercontent.com/72401437/118531001-9d066300-b745-11eb-819c-2ab9846af10b.png)
 
-### Comentaris al segon dels mètodes 
 
-### Comentaris al tercer dels mètodes
+# 9-Comentaris al segon dels mètodes 
+![image](https://user-images.githubusercontent.com/72401437/118531075-b4455080-b745-11eb-88a9-d39565b7f235.png)
+
+# 10-Comentaris al tercer dels mètodes
+![image](https://user-images.githubusercontent.com/72401437/118531172-d63ed300-b745-11eb-9f3a-de7f5c6a0b56.png)
 
 
