@@ -129,9 +129,17 @@
 
 # Comentaris i documentació a partir de la utilitat JAVADOC
 
-### Comentari al constructor
+# 7-Comentari al constructor
+#### Codi inicial:
+![image](https://user-images.githubusercontent.com/72401437/118530284-c377ce80-b744-11eb-92d9-d07194882c52.png)
 
-### Comentaris al primer dels mètodes 
+
+#### Preview:
+![image](https://user-images.githubusercontent.com/72401437/118530455-f9b54e00-b744-11eb-92fe-c8de8a3883a0.png)
+
+#### Després:
+
+# 8-Comentaris al primer dels mètodes 
 
 ### Comentaris al segon dels mètodes 
 
